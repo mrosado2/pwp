@@ -53,6 +53,7 @@
 			</ul>
 			<h4>message</h4>
 			<ul>
+				<li>m</li>
 				<li>messageId (primary key)</li>
 				<li>messageTime</li>
 				<li>messageContent</li>
