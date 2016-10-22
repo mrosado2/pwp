@@ -1,18 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Slack Message Data Design Project</title>
+		<title>My Personal Webpage</title>
 	</head>
 	<body>
 		<header>
 			<main>
-				<h1>Data Design Slack Message</h1>
+				<h1>My Personal Webpage</h1>
+				<h2>Maria Rosado</h2>
 		</header>
-		<main><h3>User</h3>
+		<main>
+			<h3>Purpose:</h3>
 			<p>
-				Gloria will be using Slack Direct Message with her school peers and professors for ongoing project
-				collaboration.
+				The purpose of this website is to start my portfolio, where I will present my work and skill to potential employers.
 			</p>
+			<h3>Audience:</h3>
+			<p>The audience will be  customers and employers.</p>
+			<h3>Goal:</h3>
+			<p>The goal is to have samples of my work for potential employers and customers  </p>
+			<h3>Persona</h3>
 			<ul>
 				<li><strong>Name:</strong> Gloria Mendez</li>
 				<li><strong>Age:</strong>27</li>
@@ -24,7 +30,7 @@
 			<p>Gloria decided to go back to school to continue her Photography studies since she wants to
 				change careers from High school Art Teacher, to professional photographer and start her
 				own business.</p>
-			<p>She wants to be her own boss and be able to work her own schedule, enjoy nature and to have
+			<p>She wants to be her own boss and to be able to work on her own schedule, enjoy nature and to have
 				the freedom to express her own style in her work.</p>
 			<p>She wants to make the most out of her time in school and learn from the experience and technique
 				of the professors and her peers, as she wants to become an excellent photographer. </p>
