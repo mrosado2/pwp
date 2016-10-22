@@ -24,11 +24,11 @@
 				<li><strong>Age:</strong>27</li>
 				<li><strong>Hobbies:</strong> Hiking</li>
 				<li><strong>Profession:</strong> Photography Student</li>
-				<li><strong>Technology:</strong> Gloria will be using her Android phone and her Mac computer at home and
+				<li><strong>Technology:</strong> Gloria will be using her Android phone, and her Mac computer at home and
 					school.</li>
 			</ul>
 			<p>Gloria decided to go back to school to continue her Photography studies since she wants to
-				change careers from High school Art Teacher, to professional photographer and start her
+				change careers from High school Art Teacher, to professional photographer, and start her
 				own business.</p>
 			<p>She wants to be her own boss and to be able to work on her own schedule, enjoy nature and to have
 				the freedom to express her own style in her work.</p>
@@ -45,7 +45,7 @@
 				school and to ensure that the use of this app will be convenient for her business.</p>
 			<ol>
 				<li>Gloria will download the app to her phone and computer</li>
-				<li>Gloria will register and will receive her userId</li>
+				<li>Gloria will register and will receive her user identification</li>
 				<li>Gloria will log in and will join her school team</li>
 				<li>Gloria will contact group members to ask for feedback on her work and plan practice field trips.</li>
 			</ol>
