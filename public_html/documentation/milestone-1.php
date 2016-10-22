@@ -49,35 +49,3 @@
 				<li>Gloria will log in and will join her school team</li>
 				<li>Gloria will contact group members to ask for feedback on her work and plan practice field trips.</li>
 			</ol>
-			<h3>Conceptual Model</h3>
-			<h3>Entities and Attributes</h3>
-			<h4>user</h4>
-			<ul>
-				<li>userId (primary key)</li>
-				<li>userName</li>
-				<li>userPicture</li>
-			</ul>
-			<h4>message</h4>
-			<ul>
-				<li>messageId (primary key)</li>
-				<li>messageTime</li>
-				<li>messageContent</li>
-				<li>messageSenderId  foreign key</li>
-				<li>messageReceiverId foreign key</li>
-			</ul>
-			<ul>
-				<li>receiverId (primary key)</li>
-				<li>receiverNameId</li>
-				<li>receiverPictureId</li>
-			</ul>
-
-			<h4>Relationships</h4>
-			<p>userId can send many messages 1-to-n </p>
-			<p>userId can receive many messages 1-to-n</p>
-			<p>one message can be send to many usersIds m-to-n</p>
-			<p>messageId can get only 1-to-1 messageTimeStamp 1-to-1</p>
-			<p>message can be send to one receiverId</p>
-			<p>message cab be sent to multiple receiverId 1-to-n</p>
-		</main>
-	</body>
-</html>
