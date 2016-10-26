@@ -42,10 +42,17 @@
 			<p>Gloria as manager on the talent acquisition department at Creative Web Developers Inc. in Albuquerque, will
 				be doing the final selection of the candidates and will perform the interviews.</p>
 			<p>Checking on the websites of the candidates she likes the variety of my projects, the layout and dynamic of
-				of my web pages. She reads my resume and it catches her eye even more when she finds out about my experience
-				working with teams and sees as a plus that my first language is Spanish which will help her company to offer
-				their customers the option to add some Latino targeted websites that will help them to gain bigger market share.
-				In addition, she has the precedence of the great employees that they have acquired previously from graduates
-				from the Deep Dive Coding Bootcamps. She sets up an interview for me and offers me a full-time position.</p>
+				of my web pages.</p>
+			<p> She reads my resume and it catches her eye even more when she finds out about my experience working with
+				teams and finds as a plus that my first language is Spanish which will help her company to offer
+				their customers the option to add some Latino targeted websites that will help them to gain bigger market
+				share.</p>
+			<p>In addition, she has the precedence of the great employees that they have hired previously from graduates
+				from the Deep Dive Coding Bootcamps. She sets up an interview for me and expects to offer me a full-time
+				position.</p>
 				</li>
 			</ol>
+		</main>
+	</body>
+</html>
+
