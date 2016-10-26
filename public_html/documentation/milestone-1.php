@@ -11,31 +11,41 @@
 		</header>
 		<main>
 			<h3>Purpose:</h3>
-			<p>
-				The purpose of this website is to start my portfolio, where I will present my work and skill to potential employers.
-			</p>
+			<p>The purpose of this website is to start my portfolio, where I will present my work and skill to potential
+				employers, and customers.</p>
 			<h3>Audience:</h3>
-			<p>The audience will be  customers and employers.</p>
+			<p>The audience will be potential customers and employers.</p>
 			<h3>Goal:</h3>
-			<p>The goal is to have samples of my work for potential employers and customers  </p>
+			<p>The goal is to pursuit a full-time job and to do some freelance work if in the future I may start my own
+				business.</p>
 			<h3>Persona</h3>
 			<ul>
 				<li><strong>Name:</strong> Gloria Birner</li>
-				<li><strong>Age:</strong>27</li>
-				<li><strong>Limiters:</strong> Project Deadline too close</li>
-				<li><strong>Profession:</strong> Talent Aquicition Junior Manager</li>
-				<li><strong>Goal:</strong> Gloria will
-					school.</li>
+				<li><strong>Age:</strong>37</li>
+				<li><strong>Profession:</strong> Talent Acquisition Manager</li>
+				<li><strong>Technology:</strong>
+					Gloria is comfortable using different technologies, at work she uses and Asus
+				Laptop, she is using the new Google phone to test the new Assistant.
+					She makes sure her employees have a try of all different technologies to be better knowledge of the
+					customers' experiences.</li>
+				<li><strong>Behaviors and Attitudes</strong>
+				Gloria has experienced the whole range of jobs at this company since out of college she worked as in intern
+				in the creative department as a junior web developer.
+					Her good eye for prospect employees help her grow into management position at the talent acquisition
+					department.
+					But she still gets involved in project mostly at the Front End which keeps her more in touch with the
+					needs of the projects</li>
+				<li><strong>Goal:</strong>
+					As her company has experienced an increment in customers with bigger projects, the
+				company has open more positions for junior developers to help with the work overload</li>
 			</ul>
-			<p>Gloria is a junior manager on the talent aquisition department at Creative Web Developers Imc.</p>
-			<p> Her company needs to hire a junior developer at an internship position to help to complete a current project
-				so they won't need to get an extension on the death line.</p>
-			<p>Due to the lack of time she decides to interview graduates from the Coders Bootcamps in town since they
-				have hired previously from those schools and they resulted being excellent employees.</p>
-			<p>She needs someone specificly with talent on the Front End, so she selects five of the candidates from the
-				resumes and reviews the portfolios. </p>
-			<p>Gloria likes my projects and the dynamic I use on the Front End, plus the fact that I also have experience
-				working with teams, as well as my experience with sites security and organizing events.</p>
-			<p>Gloria set up an interview for two other candidates and myself.</p>
-				<li>Gloria will contact candidates with feedback and her final decision.</li>
+			<p>Gloria as manager on the talent acquisition department at Creative Web Developers Inc. in Albuquerque, will
+				be doing the final selection of the candidates and will perform the interviews.</p>
+			<p>Checking on the websites of the candidates she likes the variety of my projects, the layout and dynamic of
+				of my web pages. She reads my resume and it catches her eye even more when she finds out about my experience
+				working with teams and sees as a plus that my first language is Spanish which will help her company to offer
+				their customers the option to add some Latino targeted websites that will help them to gain bigger market share.
+				In addition, she has the precedence of the great employees that they have acquired previously from graduates
+				from the Deep Dive Coding Bootcamps. She sets up an interview for me and offers me a full-time position.</p>
+				</li>
 			</ol>
