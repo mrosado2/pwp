@@ -50,8 +50,6 @@
 			<p>In addition, she has the precedence of the great employees that they have hired previously from graduates
 				from the Deep Dive Coding Bootcamps. She sets up an interview for me and expects to offer me a full-time
 				position.</p>
-				</li>
-			</ol>
 		</main>
 	</body>
 </html>
