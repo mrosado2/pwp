@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<meta charset="UTF-8"/>
 		<title>My Personal Webpage</title>
 	</head>
 	<body>
 		<header>
-			<main>
 				<h1>My Personal Webpage</h1>
 				<h2>Maria Rosado</h2>
 		</header>
