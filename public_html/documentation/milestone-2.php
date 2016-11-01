@@ -16,7 +16,7 @@
 			<!-- Content ans strategy -->
 			<main>
 				<h2>Site Content</h2>
-				<p>The content of this page, will be some of the projects that I have worked individually and the ones
+				<p>The content on this page will be some of the projects that I have worked individually and the ones
 				that I have contributed to.</p>
 				<ul>
 					<li><strong>Header:</strong> This page will include a large background with my picture and my name at
