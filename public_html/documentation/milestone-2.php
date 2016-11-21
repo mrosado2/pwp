@@ -6,20 +6,20 @@
 
 			<!-- title of assignment here -->
 
-			<title>Milestome 2</title>
+			<title>Milestone 2</title>
 		</head>
 		<body>
 			<header>
-				<h1>My Personal Webpage</h1>
+				<h1>Milestone 2</h1>
+				<h2>My Personal Webpage</h2>
 				<h2>Maria Rosado</h2>
 			</header>
 			<!-- Content ans strategy -->
-			<main>
 				<h2>Site Content</h2>
 				<p>The content on this page will be some of the projects that I have worked individually and the ones
 				that I have contributed to.</p>
 				<ul>
-					<li><strong>Header:</strong> This page will include a large background with my picture and my name at
+					<li><strong>Home:</strong> This page will include a large background with my picture and my name at
 						the center, and small description of why they should hire me.</li>
 					<li><strong>About Me:</strong> I will describe my experience, skills and will mention my favorite project.</li>
 					<li><strong>Portfolio:</strong> Here I will show projects that will show variety of my skills.</li>
@@ -36,6 +36,5 @@
 					<img src="../img/maria-mobile.jpg" alt="mobile wireframe " >
 
 				</section>
-			</main>
 		</body>
 </html>
