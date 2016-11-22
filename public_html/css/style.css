@@ -1,50 +1,32 @@
-/***
-* Flexbox Sticky Footer
-* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
-***/
-
-/*corrects IE min-height bug*/
-html { display: flex;}
-body { width: 100%;}
-
-.sfooter {
-	display: flex;
-	flex-direction: column;
-	min-height: 100vh;
-}
-
-.sfooter-content {
-	flex: 1 0 auto;
-}
-/*My CSS*/
+/**
+* \My CSS
+**/
 
 .jumbotron{
-	background:linear-gradient(rgba(100,40,0,0), rgba(0,0,0, 0)),url(../img/web image.png) no-repeat center center;
+	background:linear-gradient(rgba(100,40,0,0), rgba(0,0,0, 0)),url(../img/Estrella.jpg) no-repeat center center;
 	background-attachment: fixed;
 	background-size: cover;
+
+
 	width: 100%;
-	color: white;
+	heigh: 250px
+	color: black
 	text-align: center;
 	/*margin: 0;*/
 	min-height: 100vh;
-	/*display: flex;*/
-	/*position: static; !*not working how I want*!
-	align-items: center;*/
+
 	padding-top: 20%; /*not working how I want*/
 }
 
-body,
 html {
 	background: whitesmoke;
-	font-family:'Abril Fatface', cursive;
+	font-family:'Lobster', cursive;
 }
-p{
-	font-family: 'Cardo', serif;
+body {
+
+	font-family: '', serif;
 }
 
-.heading {
-	padding-bottom: 2em;
-}
 
 .section {
 	min-height: 100vh;
@@ -74,10 +56,6 @@ p{
 	margin-right: auto;
 }
 
-.coming-soon {
-	height: 9.25em;
-}
-
 footer {
 	right: 90%;
 	background-color: black;
@@ -88,7 +66,6 @@ footer {
 	color: 62ADAC;
 }
 
-/*Trying out nav bar color change on scroll*/
 .nav-scroll {
 	transition-duration: 1s;
 }
@@ -100,38 +77,3 @@ footer {
 .btn {
 	padding-bottom: 10px;
 }
-/********************************************
-* Flexbox Column Height Control
-* Equal height content boxes using Flexbox CSS
-*
-* Author: rlewis37
-********************************************/
-
-/*
-* add the class "row-flex" to each row that
-* houses columns that need to be equal height
-*
-* this example is set to work on the MD breakpoint
-* adjust @media query min-width if necessary
-*/
-
-/*.row-flex > div[class*="col-"] {
-	margin-bottom: 5px;
-}*/
-
-/*Haven't been able to get row-flex to work*/
-
-/* use the min-width of the appropriate breakpoint (this is set on md and lg)*/
-/*@media only screen and (min-width: 992px) {
-	.row-flex {
-		display: flex;
-		flex: 1 1 auto;
-		-webkit-flex-flow: row wrap;
-		align-content: flex-start;
-	}
-	.row-flex > div[class*="col-"] {
-		display: flex;
-		flex: 1 1 auto;
-		margin: -.2px;
-	}
-}*/
