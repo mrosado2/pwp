@@ -1,38 +1,76 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
-			<meta charset="UTF-8"/>
-			<?php require_once("../lib/head-utils.php");?>
+		<meta charset="UTF-8"/>
+
+		<!-- add CSS file -->
+		<link href="css/>stylesheet.css" type="text/css"/>
+
+		<title>PWP</title>
 	</head>
 
 	<!--begin header and navbar-->
 	<body>
 		<header>
-			<h1>Milestone 2</h1>
-			<h2>My Personal Webpage</h2>
-			<h2>Maria Rosado</h2>
+			<nav class="navbar navbar-default">
+				<div class=""container">
+				<!--Toggle and brand for better mobile display-->
+				<div class=navbar-header">
+				<button type=""button" class="navbar-toggle collapsed" data toggle="collapse"
+				data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"</span>
+				<span class="icon-bar"</span>
+				</button>
+				<a class="navbar-brand page-scroll">| BlackCat Web Developer |</a>
+				</div>
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav navbar-left">
+						<li><a class="page-scroll" href="#home">Home</a></li>
+						<li><a class="page-scroll" href="#about">About Me</a></li>
+						<li><a class="page-scroll" href="#portfolio">Portfolio</a></li>
+						<li><a class="page-scroll" href="#contact">Contact Me</a></li>
+			</nav>
+
 		</header>
-		<!-- Content ans strategy -->
-		<h2>Site Content</h2>
-		<p>The content on this page will be some of the projects that I have worked individually and the ones
-			that I have contributed to.</p>
-		<ul>
-			<li><strong>Home:</strong> This page will include a large background with my picture and my name at
-				the center, and small description of why they should hire me.</li>
-			<li><strong>About Me:</strong> I will describe my experience, skills and will mention my favorite project.</li>
-			<li><strong>Portfolio:</strong> Here I will show projects that will show variety of my skills.</li>
-			<li><strong>Contact:</strong> This page will have a form where they may contact me giving me general
-				details of the type of project they want to develop.</li>
-		</ul>
+		<!--Main Page Content  -->
+		<main>
+			<!--<div id="page-top" class="row">
+			<div class="col-xs-12">-->
+			<div id="home" class="jumbotron text center">
+				<h2>Maria Rosado</h2>
+				<p>BlackCat WebDevelopment</p>
+				<br>
+				<i class="fa fa-angle-down fa-5x" aria-hidden="true"></i>
+			</div>
+			<!--</div>
+			</div>-->
 
-		<!-- wireframes -->
-		<section>
-			<h2>Desktop</h2>
-			<img src="../img/maria-fullscreen.jpg" alt="fullscreen wireframe ">
+			<!-- About Me -->
 
-			<h2>Mobile</h2>
-			<img src="../img/maria-mobile.jpg" alt="mobile wireframe " >
+			<i id="about" class="container about section">
+				<div><h2>About Me</h2></div>
+				<div class="row">
+					<div class=""col-md-6">
+					<p>Hello, I'm Maria and I am a Web Developer. I pretty much enjoy solving problems. I have done so in all my
+						jobs.</p>
 
-		</section>
+					<p>I have experience in sales, manufacturing, training and events organization.</p>
+					<p>I have helped my employers save money and time by implementing technology and creative solutions.</p>
+					<p>If you would like to find our where you may find opportunities to increase your productivity and
+						cut costs, contact me.</p>
+				</div>
+				<div class="col-md-6">
+					<img class="profile" src="img/profile.png" alt="profile">
+				</div>
+			</div>
+			</div>
+			</main>
+			<!-- Portfolio -->
+
 	</body>
 </html>
+
+

@@ -1,26 +1,10 @@
 /**
 * \My CSS
 **/
-
-.jumbotron{
-	background:linear-gradient(rgba(100,40,0,0), rgba(0,0,0, 0)),url(../img/Estrella.jpg) no-repeat center center;
-	background-attachment: fixed;
-	background-size: cover;
-
-
-	width: 100%;
-	heigh: 250px
-	color: black
-	text-align: center;
-	/*margin: 0;*/
-	min-height: 100vh;
-
-	padding-top: 20%; /*not working how I want*/
-}
-
 html {
 	background: whitesmoke;
 	font-family:'Lobster', cursive;
+	background-image: url("../img/estrella.png")
 }
 body {
 
@@ -77,3 +61,27 @@ footer {
 .btn {
 	padding-bottom: 10px;
 }
+}
+	body{
+	width:80%;
+	margin:0 auto;
+	backgound:white;
+}
+.jumbotron{
+	background:linear-gradient(rgba(100,40,0,0), rgba(0,0,0, 0)),url(../img/estrella.png) no-repeat center center;
+	background-attachment: fixed;
+	background-size: cover;
+
+
+	width: 100%;
+	heigh: 450px;
+	color: black;
+	display: estrella
+	text-align: center;
+	/*margin: 0;*/
+	min-height: 100vh;
+
+	padding-top: 20%; /*not working how I want*/
+}
+
+
