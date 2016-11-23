@@ -41,7 +41,7 @@
 			<div class="col-xs-12">-->
 			<div id="home" class="jumbotron text center">
 				<h2>Maria Rosado</h2>
-				<p>BlackCat WebDevelopment</p>
+				<h1>BlackCat WebDevelopment</h1>
 				<br>
 				<i class="fa fa-angle-down fa-5x" aria-hidden="true"></i>
 			</div>
@@ -63,7 +63,7 @@
 						cut costs, contact me.</p>
 				</div>
 				<div class="col-md-6">
-					<img class="profile" src="img/profile.png" alt="profile">
+					<img class="profile" src="img/estrella.png" alt="estrella">
 				</div>
 			</div>
 			</div>
