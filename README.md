@@ -58,7 +58,7 @@ Make sure you spell the site title correctly. In the browser window, the title i
 
 I'm assuming you're planning on having all the same content for your desktop and mobile view, so make sure that in future wireframes, you display all content for both - I notice your home page has just a landing section, while your mobile view has a Portfolio and Contact section. 
 
+Really nice work here. Your Milestone 2&alpha; passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
 
-
-
-##Really nice work here. Your Milestone 2&alpha; passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
+## Milestone 2&beta; Feedback
+I'd like to check back in with you by the beginning of next week at the latest. Your Milestone 2&beta; passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
