@@ -112,7 +112,7 @@
 							cut costs, contact me.</p>
 					</div>
 					<div class="col-md-6">
-						<img class="profile(2)" src="img/profile2.png" alt="profile2">
+						<img class="maria-profile" src="img/maria-profile.png" alt="maria-profile">
 					</div>
 				</div>
 				</div>
