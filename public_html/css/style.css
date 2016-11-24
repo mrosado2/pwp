@@ -6,6 +6,8 @@ html {
 	font-family:'Lobster', cursive;
 	background-image: url("../img/estrella.png")
 }
+header {
+	margin-top: 20px;
 body {
 
 	font-family: '', serif;
