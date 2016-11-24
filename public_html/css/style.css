@@ -4,6 +4,11 @@
 header {
 	margin-top: 20px;
 }
+
+footer {
+	background-color: #000000;
+	color: #94ccc1;
+}
 html {
 	background: whitesmoke;
 	font-family:'Lobster', cursive;

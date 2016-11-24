@@ -54,7 +54,23 @@
 	<body>
 		<header>
 			<nav class="navbar navbar-default">
+		</header>
+
+		<!-- Welcome -->
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 text-center"></div>
+				</div>
+			</div>
+		</section>
 				<div class="container">
+
+					<div class="row">
+						<div class="col-xs-12 text-center">
+							... title tag
+							... para
+					</div>
 					<!--Toggle and brand for better mobile display-->
 					<div class=navbar-header">
 						<button type="button" class="navbar-toggle collapsed" data toggle="collapse"
@@ -77,7 +93,6 @@
 					</div>
 			</nav>
 
-		</header>
 		<!--Main Page Content  -->
 		<main>
 			<!--<div id="page-top" class="row">
