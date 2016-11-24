@@ -46,8 +46,6 @@
 
 		<!-- Google Fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-
-		<title>BlackCat Web Development</title>
 	</head>
 
 	<!--begin header and navbar-->
@@ -60,17 +58,13 @@
 		<section>
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12 text-center"></div>
+					<div class="col-xs-12 text-center">
+						<title>BlackCat Web Development</title>
+
+					</div>
 				</div>
 			</div>
 		</section>
-				<div class="container">
-
-					<div class="row">
-						<div class="col-xs-12 text-center">
-							... title tag
-							... para
-					</div>
 					<!--Toggle and brand for better mobile display-->
 					<div class=navbar-header">
 						<button type="button" class="navbar-toggle collapsed" data toggle="collapse"
@@ -118,7 +112,7 @@
 							cut costs, contact me.</p>
 					</div>
 					<div class="col-md-6">
-						<img class="profile" src="img/estrella.png" alt="estrella">
+						<img class="profile(2)" src="img/profile2.png" alt="profile2">
 					</div>
 				</div>
 				</div>
