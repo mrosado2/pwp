@@ -1,13 +1,15 @@
 /**
 * \My CSS
 **/
+header {
+	margin-top: 20px;
+}
 html {
 	background: whitesmoke;
 	font-family:'Lobster', cursive;
 	background-image: url("../img/estrella.png")
 }
-header {
-	margin-top: 20px;
+
 body {
 
 	font-family: '', serif;
@@ -62,7 +64,6 @@ footer {
 
 .btn {
 	padding-bottom: 10px;
-}
 }
 	body{
 	width:80%;
