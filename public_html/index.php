@@ -115,7 +115,6 @@
 					</div>
 		</main>
 		<!-- Portfolio -->
-	efault">Submit</button>
 		</form>
 					</div>
 					<div class="col-xs-12 col-md-6 portfolio-caption">
