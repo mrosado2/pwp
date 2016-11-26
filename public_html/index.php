@@ -116,19 +116,7 @@
 						I formerly worked as a technician on manufacturing industry and that gave me experience of team work,
 						customer service, import and export.
 	</div>-->
-			<!-- About Me -->
-			<id="about" class="container about section">
-			<div><h2>About Me</h2></div>
-			<div class="row">
-				<div class="col-md-6">
-					<p>Hello, I'm Maria and I am a Web Developer. I pretty much enjoy solving problems. I have done so in all
-						my jobs.</p>
-					<p>I have experience in sales, manufacturing, training and events organization.</p>
-					<p>I have helped my employers save money and time by implementing technology and creative solutions.</p>
-					<p>If you would like to find our where you may find opportunities to increase your productivity and
-						cut costs, contact me.</p>
-				</div>
-				<div class="col-md-6">
+			<div class="col-md-6">
 					<img class="maria-profile" src="img/maria-profile.png" alt="maria-profile">
 				</div>
 		</div>
@@ -158,8 +146,7 @@
 						</div>
 						<div class="caption-padding">
 							<a href="//Aaaa-capstone" target="_blank"
-								class="btn btn-primary" role="button"><i
-									class="fa fa-lg fa-external-link"></i></a>
+								class="btn btn-primary" role="button"><i class="fa fa-lg fa-external-link"></i></a>
 							<a href="//github.com/kdilts/Aaaa-capstoe" target="_blank"
 								class="btn btn-default pull-right"
 								role="button"><i class="fa fa-lg fa-github"></i></a>
