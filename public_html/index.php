@@ -150,14 +150,14 @@
 						<img class="img-responsive portfolio-img" src="images/code image.png" alt="code image">
 						<div class="caption">
 							<h3>
-								Flek
+								Aaaa
 							</h3>
 							<p>
 								Connecting artists with patrons of local culture and art.
 							</p>
 						</div>
 						<div class="caption-padding">
-							<a href="//flek.me" target="_blank"
+							<a href="//Aaaa-capstone" target="_blank"
 								class="btn btn-primary" role="button"><i
 									class="fa fa-lg fa-external-link"></i></a>
 							<a href="//github.com/kdilts/Aaaa-capstoe" target="_blank"
