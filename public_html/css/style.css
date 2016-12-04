@@ -1,95 +1,60 @@
-/**
-* \My CSS
-**/
-header {
-	margin-top: 20px;
+/********************************************
+*********************************************
+*
+* Bootstrap Challenge Demo CSS
+* @author rlewis37@cnm.edu
+*
+********************************************
+********************************************/
+
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
+}
+
+/***
+* Utility Styles
+***/
+.bg-gray {
+	background-color: #eee;
+}
+
+.m-b-2 {
+	margin-bottom: 2rem;
+}
+
+/***
+* Custom Section Styles
+***/
+section {
+	padding: 5rem 0;
 }
 
 footer {
-	background-color: #000000;
-	color: #94ccc1;
-}
-html {
-	background: whitesmoke;
-	font-family:'Lobster', cursive;
-	background-image: url("../img/estrella.png")
+	padding: 2rem 0;
+	background-color: aqua;
+	color: transparent;
 }
 
-body {
-
-	font-family: '', serif;
+@media only screen and (max-width: 768px) {
+	.xs-center-block {
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+	}
 }
-
-
-.section {
-	min-height: 100vh;
-	padding-top: 10em;
-}
-
-.navbar.navbar-default {
-	padding-right:50px !important;
-	padding: 10px 0;
-	background: transparent;
-	border: none;
-	box-shadow: none;
-}
-.navbar.navbar-default .navbar-nav > li > a,
-.navbar.navbar-default .navbar-brand {
-	color: dodgerblue;
-}
-
-.home-image {
-	width: 100%;
-}
-
-.profile {
-	width: 60%;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-footer {
-	right: 90%;
-	background-color: white;
-	color: A5003D;
-}
-
-.btn {
-	color: 62ADAC;
-}
-
-.nav-scroll {
-	transition-duration: 1s;
-}
-
-.g-recaptcha{
-	padding-bottom: 10px;
-}
-
-.btn {
-	padding-bottom: 10px;
-}
-	body{
-	width:80%;
-	margin:0 auto;
-	backgound:lighgrey;
-}
-.jumbotron{
-	background:linear-gradient(rgba(100,40,0,0), rgba(0,0,0, 0)),url(../img/estrella.png) no-repeat center center;
-	background-attachment: fixed;
-	background-size: cover;
-
-
-	width: 100%;
-	heigh: 450px;
-	color: white;
-	display:
-	text-align: center;
-	/*margin: 0;*/
-	min-height: 100vh;
-
-	padding-top: 20%; /*not working how I want*/
-}
-
 
