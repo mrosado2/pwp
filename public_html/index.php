@@ -87,7 +87,7 @@
 			<!-- begin welcome section -->
 			<section>
 				<div class="container">
-					<img src="..public_html/img/class="background"
+					<img src="..public_html/img/computer-image-plant class="background">
 					<div class="row">
 						<div class="col-sm-12">
 							<div class="jumbotron text-center">
