@@ -87,10 +87,10 @@
 			<!-- begin welcome section -->
 			<section>
 				<div class="container">
-					<img src="..public_html/img/computer-image-plant class="background">
+					<div class="jumbotron text-center">
+					<img src="..public_html/img/computer-image-plant" class="background">
 					<div class="row">
 						<div class="col-sm-12">
-							<div class="jumbotron text-center">
 								<h1>Maria Rosado</h1>
 								<h2> Web Developer</h2>
 								<p class="lead"></p>
@@ -113,13 +113,13 @@
 							<div class="About me"></div><h2>About Me</h2>
 							<p class="lead">Hi! My name is Maria Rosado. I am a Web Developer. Photography aficionado, with a love
 								for creating amazing Websites that look great and have seamless transitions from the eye catchers
-								to it effectiveness.
+								to effectiveness.
 							</p>
-							<p>Love to solve problems and help business to find was to use technology and get the most of it,
+							<p>Love to solve problems and help business to find ways to use technology and get the most of it
 								without loosing the human touch.</p>
 							<p>I am based in Albuquerque, New Mexico, and benefit of a multicultural background.
-								I was born in Mexico City where had an amazing job that send me to work in very importants events
-								like the first World Summit in Cancun and presidential campains.</p>
+								I was born in Mexico City where had an amazing job that send me to work in very important events
+								like the first Presidential World Summit. Presidential campains, North South Summit of Chancellors, etc.</p>
 							<p>Never missed the opportunity to visit museaums and historical locations from the Mayas in the south,
 								Aztecs ruins in central Mexico, to the Tarahumaras in the north.
 								Moved to New York where lived for 13 chilling winters and summers that were never enough to get to
