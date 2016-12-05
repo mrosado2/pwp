@@ -54,7 +54,6 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<header>
-
 				<!-- begin header and navbar-->
 				<nav class="nav-scroll navbar navbar-default navbar-fixed-top">
 					<div class="container-fluid">
@@ -65,11 +64,10 @@
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
-								<span> class="icon-bar"></span>
+								<span class="icon-bar"></span>
 							</button>
 							<a class="navbar-brand page-scroll">| BlackCat Web Develoment |</a>
 						</div>
-
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav navbar-left">
@@ -81,110 +79,109 @@
 						</div>
 					</div>
 				</nav>
-
 			</header>
 
 			<!-- begin welcome section -->
-			<section>
-				<div class="container">
-					<div class="jumbotron text-center">
-					<img src="..public_html/img/computer-image-plant" class="background">
-					<div class="row">
-						<div class="col-sm-12">
-								<h1>Maria Rosado</h1>
-								<h2> Web Developer</h2>
-								<p class="lead"></p>
+			<main>
+				<!--<div id="page-top class="row" -->
+				<div class="col-xs-12">-->
+					<div id="home" class="jumbotron text-center"
+					<h1>Maria Rosado</h1>
+					<h2>Web Developer</h2>
+					<br>
+					<i class="fa fa-angle-down fa-5x" aria-hidden="true"></i>
+
+				</div>
+				<!--/div>
+			</div>-->
+
+				<!----------------------- Begin photo/text section ---------------------------------------->
+
+				<a name="about"></a><!-- this is an "anchor" link -->
+				<section class="bg-gray">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-3">
+								<img src="../public_html/img/maria-profile.png"
+									  class="img-responsive img-thumbnail xs-center-block m-b-2">
 							</div>
-						</div><!-- /.col-sm-12 -->
-					</div><!-- /.row -->
-				</div><!-- /.container -->
-			</section>
+							<div class="col-xs-9">
+								<div class="About me"></div><h2>About Me</h2>
+								<p class="lead">Hi! My name is Maria Rosado. I am a Web Developer. Photography aficionado, with a love
+									for creating amazing Websites that look great and have seamless transitions from the eye catchers
+									to effectiveness.
+								</p>
+								<p>Love to solve problems and help business to find ways to use technology and get the most of it
+									without loosing the human touch.</p>
+								<p>I am based in Albuquerque, New Mexico, and benefit of a multicultural background.
+									I was born in Mexico City where had an amazing job that send me to work in very important events
+									like the first Presidential World Summit. Presidential campains, North South Summit of Chancellors, etc.</p>
+								<p>Never missed the opportunity to visit museaums and historical locations from the Mayas in the south,
+									Aztecs ruins in central Mexico, to the Tarahumaras in the north.
+									Moved to New York where lived for 13 chilling winters and summers that were never enough to get to
+									visit all the stores and breath taking views on the Fall. There I worked with apparel companies
+									through an import, export, storage and transportation company where I help them to implement
+									technology they already had but were not using to full advantage.</p>
+								<p>Within the first month of my implementation of my suggested changes they save over $3,000.00 dollars.
+									That job also gave me the opportunity to work and learn from cultures from around the world.
+									Then moved to New Mexico to work at Intel. There I learned soo much about cutting edge technology
+									and manufacturing.
+									Now I am putting all that experience to the advantage of my customers.</p>
+							</div>
+						</div><!-- /.row -->
+					</div><!-- /.container -->
+				</section>
 
-			<!-- begin photo/text section -->
-			<a name="about"></a><!-- this is an "anchor" link -->
-			<section class="bg-gray">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-3">
-							<img src="../public_html/img/maria-profile.png"
-								  class="img-responsive img-thumbnail xs-center-block m-b-2">
+				<!-- begin 4 column section -->
+
+				<a name="moar"></a><!-- this is an "anchor" link -->
+				<section>
+					<div class="container">
+						<div class
+						<div class="jumbotron text-center">
+							<div class="text-center m-b-2"></div><h2>Portfolio</h2></div>
+						<div class="text-Portfolio"
+						<div class="row">
+				</section>
+				<div class="col-sm-3">
+					<div class="text-center-m-b-2">
+						<img src="../public_html/img/icon-ddcb-lg.png" alt="ddcb" class="img-responsive img-circle img-thumbnail">
+						<h5>Aaaa-capstone</h5>
+						<p class="text-center m-b-2">Project</p>
+					</div>
+				</div><!-- /.col-sm-3 -->
+
+				<div class="col-sm-3">
+					<div class="text-center m-b-2">
+						<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
+							  class="img-responsive img-circle img-thumbnail">
+						<div>
+							<h3>Title 2</h3>
+							<p class="text-center m-b-2">Project</p>
 						</div>
-						<div class="col-sm-9">
-							<div class="About me"></div><h2>About Me</h2>
-							<p class="lead">Hi! My name is Maria Rosado. I am a Web Developer. Photography aficionado, with a love
-								for creating amazing Websites that look great and have seamless transitions from the eye catchers
-								to effectiveness.
-							</p>
-							<p>Love to solve problems and help business to find ways to use technology and get the most of it
-								without loosing the human touch.</p>
-							<p>I am based in Albuquerque, New Mexico, and benefit of a multicultural background.
-								I was born in Mexico City where had an amazing job that send me to work in very important events
-								like the first Presidential World Summit. Presidential campains, North South Summit of Chancellors, etc.</p>
-							<p>Never missed the opportunity to visit museaums and historical locations from the Mayas in the south,
-								Aztecs ruins in central Mexico, to the Tarahumaras in the north.
-								Moved to New York where lived for 13 chilling winters and summers that were never enough to get to
-								visit all the stores and breath taking views on the Fall. There I worked with apparel companies
-								through an import, export, storage and transportation company where I help them to implement
-								technology they already had but were not using to full advantage.</p>
-							<p>Within the first month of my implementation of my suggested changes they save over $3,000.00 dollars.
-								That job also gave me the opportunity to work and learn from cultures from around the world.
-								Then moved to New Mexico to work at Intel. There I learned soo much about cutting edge technology
-								and manufacturing.
-								Now I am putting all that experience to the advantage of my customers.</p>
+					</div>
+				</div><!-- /.col-sm-3 -->
+
+				<div class="col-sm-3">
+					<div class="text-center m-b-2">
+						<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
+							  class="img-responsive img-circle img-thumbnail">
+						<div>
+							<h3>Title 3</h3>
+							<p class="text-center m-b-2">Project</p>
 						</div>
-					</div><!-- /.row -->
-				</div><!-- /.container -->
-			</section>
-
-			<!-- begin 4 column section -->
-
-			<a name="moar"></a><!-- this is an "anchor" link -->
-			<section>
-				<div class="container">
-					<div class="jumbotron text-center">
-						<div class="text-center m-b-2"></div><h2>Portfolio</h2></div>
-					<div class="text-Portfolio"
-					<div class="row">
-			</section>
-			<div class="col-sm-3">
-				<div class="text-center-m-b-2">
-					<img src="../public_html/img/icon-ddcb-lg.png" alt="ddcb" class="img-responsive img-circle img-thumbnail">
-					<h5>Aaaa-capstone</h5>
-					<p class="text-center m-b-2">Project</p>
-				</div>
-			</div><!-- /.col-sm-3 -->
-
-			<div class="col-sm-3">
-				<div class="text-center m-b-2">
-					<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
-						  class="img-responsive img-circle img-thumbnail">
-					<div>
-						<h3>Title 2</h3>
-						<p class="text-center m-b-2">Project</p>
 					</div>
-				</div>
-			</div><!-- /.col-sm-3 -->
-
-			<div class="col-sm-3">
-				<div class="text-center m-b-2">
-					<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
-						  class="img-responsive img-circle img-thumbnail">
-					<div>
-						<h3>Title 3</h3>
-						<p class="text-center m-b-2">Project</p>
+				</div><!-- /.col-sm-3 -->
+				<div class="col-sm-3">
+					<div class="text-center m-b-2">
+						<img src="../public_html/img/coming-soon-1.png" alt="coming-soom"
+							  class="img-responsive img-circle img-thumbnail">
+						<div>
+							<h3>Title 4</h3>
+							<p class="text-center m-b-2">Project</p>
+						</div>
 					</div>
-				</div>
-			</div><!-- /.col-sm-3 -->
-			<div class="col-sm-3">
-				<div class="text-center m-b-2">
-					<img src="../public_html/img/coming-soon-1.png" alt="coming-soom"
-						  class="img-responsive img-circle img-thumbnail">
-					<div>
-						<h3>Title 4</h3>
-						<p class="text-center m-b-2">Project</p>
-					</div>
-				</div>
-			</div><!-- /.col-sm-3 -->
+				</div><!-- /.col-sm-3 -->
 
 		</div><!-- /.row -->
 		</div><!-- /.container -->

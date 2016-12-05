@@ -25,36 +25,118 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
-
-/***
-* Utility Styles
-***/
-.bg-gray {
-	background-color: #eee;
+.jumbotron{
+	background:
+	linear-gradient(rgba(100,40,0,0),
+	rgba(0,0,0, 0)),url(../images/computer-image-plant.png) no-repeat center center;
+	background-attachement: fixed;
+	background-size: cover;
+	width: 100%
+	color: lightsteelblue;
+	text-align-center;
+	/*margin: 0;*/
+	min-height: ; 100vh;
+	/*display: flex;*/
+	padding-top: 20%;
 }
 
-.m-b-2 {
-	margin-bottom: 2rem;
+body,
+html {
+	background: yellowgreen;
+	font-family: "sans-serif", cursive;
+}
+p{
+	font-family: "sans-serif". serif;
+}
+.heading {
+	padding-bottom: 2em;
 }
 
-/***
-* Custom Section Styles
-***/
-section {
-	padding: 5rem 0;
+.section {
+	min-height: 90vh;
+	padding-top: 20em;
+}
+
+.navbar.navbar-default {
+	padding-right:50px !important;
+	padding: 10px 0;
+	background: transparent;
+	border: none;
+	box-shadow: none;
+}
+.navbar.navbar-default .navbar-nav > li > a,
+.navbar.navbar-default .navbar-brand {
+	color: dodgerblue;
+}
+
+.home-image {
+	width: 100%;
+}
+
+.profile {
+	width: 60%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.coming-soon {
+	height: 9.25em;
 }
 
 footer {
-	padding: 2rem 0;
-	background-color: aqua;
-	color: transparent;
+	right: 90%;
+	background-color: blue;
+	color: #eeeeee ;
 }
 
-@media only screen and (max-width: 768px) {
-	.xs-center-block {
-		display: block;
-		margin-right: auto;
-		margin-left: auto;
+.btn {
+	color: #6633AA;
+}
+
+/*Trying out nav bar color change on scroll*/
+.nav-scroll {
+	transition-duration: 1s;
+}
+.g-recaptcha{
+	padding-bottom: 10px;
+}
+
+.btn {
+	padding-bottom: 10px;
+}
+/********************************************
+* Flexbox Column Height Control
+* Equal height content boxes using Flexbox CSS
+*
+* Author: rlewis37
+********************************************/
+
+/*
+* add the class "row-flex" to each row that
+* houses columns that need to be equal height
+*
+* this example is set to work on the MD breakpoint
+* adjust @media query min-width if necessary
+*/
+
+/*.row-flex > div[class*="col-"] {
+	margin-bottom: 5px;
+}*/
+
+/*Haven't been able to get row-flex to work*/
+
+/* use the min-width of the appropriate breakpoint (this is set on md and lg)*/
+/*@media only screen and (min-width: 992px) {
+	.row-flex {
+		display: flex;
+		flex: 1 1 auto;
+		-webkit-flex-flow: row wrap;
+		align-content: flex-start;
 	}
-}
-
+	.row-flex > div[class*="col-"] {
+		display: flex;
+		flex: 1 1 auto;
+		margin: -.2px;
+	}
+}*/
