@@ -112,20 +112,24 @@
 									to effectiveness.
 								</p>
 								<p>Love to solve problems and help business to find ways to use technology and get the most of it
-									without loosing the human touch.</p>
+									without losing the human touch.</p>
 								<p>I am based in Albuquerque, New Mexico, and benefit of a multicultural background.
 									I was born in Mexico City where had an amazing job that send me to work in very important events
-									like the first Presidential World Summit. Presidential campains, North South Summit of Chancellors, etc.</p>
-								<p>Never missed the opportunity to visit museaums and historical locations from the Mayas in the south,
+									like the first Presidential World Summit. Presidential campaigns, North South Summit of Chancellors, etc.</p>
+								<p>Never missed the opportunity to visit museums and historical locations from the Mayas in the south,
 									Aztecs ruins in central Mexico, to the Tarahumaras in the north.
-									Moved to New York where lived for 13 chilling winters and summers that were never enough to get to
-									visit all the stores and breath taking views on the Fall. There I worked with apparel companies
-									through an import, export, storage and transportation company where I help them to implement
-									technology they already had but were not using to full advantage.</p>
-								<p>Within the first month of my implementation of my suggested changes they save over $3,000.00 dollars.
+									Moved to New York where lived for 13 chilling winters and hot summers, still not enough to get to
+									visit all the stores and breath taking views on the Fall. There I worked with a company of import,export,
+									storage and transportation company, servicing electronics and apparel companies. Where I help them to
+									implement programs to make use of the technology they already had but they were only using about 10% of the
+									potential.</p>
+								<p>Within the first month of implementing my suggestions they save over $3,000.00 dollars.
 									That job also gave me the opportunity to work and learn from cultures from around the world.
-									Then moved to New Mexico to work at Intel. There I learned soo much about cutting edge technology
-									and manufacturing.
+									Then moved to New Mexico to work at Intel, where I also had the opportunity to design a module that helped
+									save my team araound $5,000 per repair, as my gig saved 24 hrs in turn around and $3500 in parts. Also
+									did a change that just in one instance saved $250,000.00.
+								<p>In exchange I learned from the best in many trades, like ROCCO about safety, LEAN manufacturing, 3 Sigma
+									process controls,worked with the best teams around the world and using cutting edge technology.
 									Now I am putting all that experience to the advantage of my customers.</p>
 							</div>
 						</div><!-- /.row -->
