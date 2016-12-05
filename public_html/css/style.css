@@ -26,17 +26,16 @@ body { width: 100%;}
 	flex: 1 0 auto;
 }
 .jumbotron{
-	background:
-	linear-gradient(rgba(100,40,0,0),
-	rgba(0,0,0, 0)),url(../images/computer-image-plant.png) no-repeat center center;
-	background-attachement: fixed;
+	background:linear-gradient(rgba(100,40,0,0), rgba(0,0,0, 0)), url(../img/computer-image-plant.png) no-repeat center center;
+	background-attachment: fixed;
 	background-size: cover;
-	width: 100%
-	color: lightsteelblue;
-	text-align-center;
-	/*margin: 0;*/
-	min-height: ; 100vh;
-	/*display: flex;*/
+	background-size: cover;
+	width: 100%;
+	color: white;
+	text-align: center;
+	/*margin: 10;*/
+	min-height: 100vh;
+	/*display: flex;*/ /*position: static;*/
 	padding-top: 20%;
 }
 
@@ -46,18 +45,19 @@ html {
 	font-family: "sans-serif", cursive;
 }
 p{
-	font-family: "sans-serif". serif;
+	font-family: "sans-serif", serif;
 }
 .heading {
 	padding-bottom: 2em;
 }
 
 .section {
-	min-height: 90vh;
-	padding-top: 20em;
+	min-height: 100vh;
+	padding-top: 10em;
 }
 
 .navbar.navbar-default {
+
 	padding-right:50px !important;
 	padding: 10px 0;
 	background: transparent;
@@ -70,7 +70,7 @@ p{
 }
 
 .home-image {
-	width: 100%;
+	width: 50%;
 }
 
 .profile {

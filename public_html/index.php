@@ -85,7 +85,7 @@
 			<main>
 				<!--<div id="page-top class="row" -->
 				<div class="col-xs-12">-->
-					<div id="home" class="jumbotron text-center"
+					<div id="home" class="jumbotron text-center">
 					<h1>Maria Rosado</h1>
 					<h2>Web Developer</h2>
 					<br>
@@ -137,11 +137,14 @@
 				<a name="moar"></a><!-- this is an "anchor" link -->
 				<section>
 					<div class="container">
-						<div class
+						<div class></div>
 						<div class="jumbotron text-center">
-							<div class="text-center m-b-2"></div><h2>Portfolio</h2></div>
+							<div class="text-center m-b-2"></div><h2>Portfolio</h2>
 						<div class="text-Portfolio"
 						<div class="row">
+						</div>
+						</div>
+					</div>
 				</section>
 				<div class="col-sm-3">
 					<div class="text-center-m-b-2">
@@ -182,12 +185,12 @@
 						</div>
 					</div>
 				</div><!-- /.col-sm-3 -->
-
-		</div><!-- /.row -->
+				</div>
 		</div><!-- /.container -->
 		</section>
 		</div><!-- /.sfooter-content -->
-		<!------------------------- CONTACT FORM------------------------------------->
+		<!------------------------- CONTACT FORM ------------------------------------->
+
 		<div id="contact" class="container section">
 			<h2 class="heading">Contact Me</h2>
 			<div class="row">
