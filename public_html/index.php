@@ -128,8 +128,8 @@
 									Then moved to New Mexico to work at Intel, where I also had the opportunity to design a module that helped
 									save my team araound $5,000 per repair, as my gig saved 24 hrs in turn around and $3500 in parts. Also
 									did a change that just in one instance saved $250,000.00.
-								<p>In exchange I learned from the best in many trades, like ROCCO about safety, LEAN manufacturing, 3 Sigma
-									process controls,worked with the best teams around the world and using cutting edge technology.
+								<p>In exchange I learned from the best in many trades, like ROCCO about safety, LEAN manufacturing, 6 Sigma,
+									ISO 9000 readiness and audits, and worked with the best teams around the world and using cutting edge technology.
 									Now I am putting all that experience to the advantage of my customers.</p>
 							</div>
 						</div><!-- /.row -->
