@@ -1,5 +1,5 @@
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^mariadro.com$ [NC,OR]
-RewriteCond %{HTTP_HOST} ^www.mariadroINNAME.com$
+RewriteCond %{HTTP_HOST} ^www.mariadro.com$
 RewriteCond %{REQUEST_URI} !public_html/
 RewriteRule (.*) /public_html/$1 [L]
