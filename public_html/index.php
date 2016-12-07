@@ -43,7 +43,7 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
 				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 				  crossorigin="anonymous"></script>
-		<!--FONT AWESOME-->
+		<!-- FONT AWESOME -->
 		<script src="https://use.fontawesome.com/ccafd2629e.js"></script>
 		<!-- Google Fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
@@ -54,7 +54,7 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<header>
-				<!-- begin header and navbar-->
+				<!-- begin header and navbar -->
 				<nav class="nav-scroll navbar navbar-default navbar-fixed-top">
 					<div class="container-fluid">
 						<!-- Brand and toggle get grouped for better mobile display -->
@@ -84,7 +84,7 @@
 			<!-- begin welcome section -->
 			<main>
 				<!--<div id="page-top class="row" -->
-				<div class="col-xs-12">-->
+				<div class="col-xs-12">
 					<div id="home" class="jumbotron text-center">
 					<h1>Maria Rosado</h1>
 					<h2>Web Developer</h2>
