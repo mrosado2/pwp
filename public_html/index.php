@@ -114,7 +114,7 @@
 								<p>Love to solve problems and help business to find ways to use technology and get the most of it
 									without losing the human touch.</p>
 								<p>I am based in Albuquerque, New Mexico, and benefit of a multicultural background.
-									I was born in Mexico City where had an amazing job that send me to work in very important events
+									I was born in Mexico City, where I had an amazing job that send me to work in very important events
 									like the first Presidential World Summit. Presidential campaigns, North South Summit of Chancellors, etc.</p>
 								<p>Never missed the opportunity to visit museums and historical locations from the Mayas in the south,
 									Aztecs ruins in central Mexico, to the Tarahumaras in the north.
