@@ -26,7 +26,7 @@ body { width: 100%;}
 	flex: 1 0 auto;
 }
 .jumbotron{
-	background:linear-gradient(rgba(100,40,0,0), rgba(0,0,0, 0)), url(../img/computer-image-plant.png) no-repeat center center;
+	background:linear-gradient(rgba(100,40,0,0), rgba(0,0,0, 0)), url(../img/computer-image-plant.jpg) no-repeat center center;
 	background-attachment: fixed;
 	background-size: cover;
 	background-size: cover;
