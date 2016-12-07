@@ -157,7 +157,6 @@
 						<p class="text-center m-b-2">Project</p>
 					</div>
 				</div><!-- /.col-sm-3 -->
-
 				<div class="col-sm-3">
 					<div class="text-center m-b-2">
 						<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
