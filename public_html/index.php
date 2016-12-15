@@ -53,14 +53,12 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<header>
 				<!-- begin header and navbar -->
+			<header></header>
 				<nav class="nav-scroll navbar navbar-default navbar-fixed-top">
 					<div class="container-fluid">
 						<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header">
-							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-									  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
@@ -80,7 +78,6 @@
 					</div>
 				</nav>
 			</header>
-
 			<!-- begin welcome section -->
 			<main>
 				<!--<div id="page-top class="row" -->
@@ -107,30 +104,20 @@
 							</div>
 							<div class="col-xs-9">
 								<div class="About me"></div><h2>About Me</h2>
-								<p class="lead">Hi! My name is Maria Rosado. I am a Web Developer. Photography aficionado, with a love
-									for creating amazing Websites that look great and have seamless transitions from the eye catchers
-									to effectiveness.
+								<p class="lead">Hi! My name is Maria Rosado. I am a Web Developer. I am a Photography aficionado,
+									with a  for creating amazing responsive Websites that look great and that have seamless transitions
+									from the eye catchers to effectiveness.
 								</p>
-								<p>Love to solve problems and help business to find ways to use technology and get the most of it
-									without losing the human touch.</p>
+								<p>Love design and responsive websites that help business to attract new customers and provide a
+									great experience to all their cutomers.</p>
 								<p>I am based in Albuquerque, New Mexico, and benefit of a multicultural background.
 									I was born in Mexico City, where I had an amazing job that send me to work in very important events
 									like the first Presidential World Summit. Presidential campaigns, North South Summit of Chancellors, etc.</p>
 								<p>Never missed the opportunity to visit museums and historical locations from the Mayas in the south,
 									Aztecs ruins in central Mexico, to the Tarahumaras in the north.
-									Moved to New York where lived for 13 chilling winters and hot summers, still not enough to get to
-									visit all the stores and breath taking views on the Fall. There I worked with a company of import,export,
-									storage and transportation company, servicing electronics and apparel companies. Where I help them to
-									implement programs to make use of the technology they already had but they were only using about 10% of the
-									potential.</p>
-								<p>Within the first month of implementing my suggestions they save over $3,000.00 dollars.
-									That job also gave me the opportunity to work and learn from cultures from around the world.
-									Then moved to New Mexico to work at Intel, where I also had the opportunity to design a module that helped
-									save my team araound $5,000 per repair, as my gig saved 24 hrs in turn around and $3500 in parts. Also
-									did a change that just in one instance saved $250,000.00.
-								<p>In exchange I learned from the best in many trades, like ROCCO about safety, LEAN manufacturing, 6 Sigma,
-									ISO 9000 readiness and audits, worked with the best teams around the world and using cutting edge technology.
-									Now I am putting all that experience to the advantage of my customers.</p>
+									Moved to New York where lived for 13 chilling winters and hot summers, and visited almost as many
+									stores there as the works of art that I have enjoyed in Santa Fe and Albuquerque.
+									visit all the stores and breath taking views on the Fall. .</p>
 							</div>
 						</div><!-- /.row -->
 					</div><!-- /.container -->
