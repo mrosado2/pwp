@@ -227,7 +227,7 @@
 						</div>
 
 						<!-- reCAPTCHA -->
-						<div class="g-recaptcha" data-sitekey="6Lftrw0UAAAAAJMEE3A0yzZF_6GENXFPUiJwA6Pl"></div>
+						<div class="g-recaptcha" data-sitekey="6Lftlg0UAAAAAJ-Aw-uwhp4bAalULJxXidL34toN"></div>
 
 						<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 						<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
