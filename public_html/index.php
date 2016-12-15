@@ -3,7 +3,7 @@
 	<head>
 
 		<meta charset="UTF-8"/>
-		<meta http-equiv=""X-UA-Compatible" content="IE=edge"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
@@ -38,7 +38,7 @@
 		<script src="js/form-validate.js"></script>
 		<script src="js/script.js"></script>
 		<!-- Google reCAPTCHA -->
-		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<script src="https://www.google.com/recaptcha/api.js"></script>
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
 				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
@@ -53,17 +53,16 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-				<!-- begin header and navbar -->
-			<header></header>
+			<!-- begin header and navbar -->
+			<header>
 				<nav class="nav-scroll navbar navbar-default navbar-fixed-top">
 					<div class="container-fluid">
 						<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header">
-								<span class="sr-only">Toggle navigation</span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-							</button>
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
 							<a class="navbar-brand page-scroll">| BlackCat Web Development |</a>
 						</div>
 						<!-- Collect the nav links, forms, and other content for toggling -->
@@ -83,102 +82,101 @@
 				<!--<div id="page-top class="row" -->
 				<div class="col-xs-12">
 					<div id="home" class="jumbotron text-center">
-					<h1>Maria Rosado</h1>
-					<h2>Web Developer</h2>
-					<br>
-					<i class="fa fa-angle-down fa-5x" aria-hidden="true"></i>
+						<h1>Maria Rosado</h1>
+						<h2>Web Developer</h2>
+						<br>
+						<i class="fa fa-angle-down fa-5x" aria-hidden="true"></i>
 
-				</div>
-				<!--/div>
-			</div>-->
+					</div>
+					<!--/div>
+				</div>-->
 
-				<!----------------------- Begin photo/text section ---------------------------------------->
+					<!----------------------- Begin photo/text section ---------------------------------------->
 
-				<a name="about"></a><!-- this is an "anchor" link -->
-				<section class="bg-gray">
-					<div class="container">
-						<div class="row">
-							<div class="col-sm-3">
-								<img src="../public_html/img/maria-profile.png"
-									  class="img-responsive img-thumbnail xs-center-block m-b-2">
+					<a name="about"></a><!-- this is an "anchor" link -->
+					<section class="bg-gray">
+						<div class="container">
+							<div class="row">
+								<div class="col-sm-3">
+									<img src="../public_html/img/maria-profile.png"
+										  class="img-responsive img-thumbnail xs-center-block m-b-2">
+								</div>
+								<div class="col-xs-9">
+									<div class="About me"></div><h2>About Me</h2>
+									<p class="lead">Hi! My name is Maria Rosado. I am a Web Developer. I am a Photography aficionado,
+										with a  for creating amazing responsive Websites that look great and that have seamless transitions
+										from the eye catchers to effectiveness.
+									</p>
+									<p>Love design and responsive websites that help business to attract new customers and provide a
+										great experience to all their customers.</p>
+									<p>I am based in Albuquerque, New Mexico, and benefit of a multicultural background.
+										I was born in Mexico City, where I had an amazing job that send me to work in very important events
+										like the first Presidential World Summit. Presidential campaigns, North South Summit of Chancellors, etc.</p>
+									<p>Never missed the opportunity to visit museums and historical locations from the Mayas in the south,
+										Aztecs ruins in central Mexico, to the Tarahumaras in the north.
+										Moved to New York where lived for 13 chilling winters and hot summers, and visited almost as many
+										stores there as the works of art that I have enjoyed in Santa Fe and Albuquerque.
+										visit all the stores and breath taking views on the Fall. .</p>
+								</div>
+							</div><!-- /.row -->
+						</div><!-- /.container -->
+					</section>
+
+					<!-- begin 4 column section -->
+
+					<a name="moar"></a><!-- this is an "anchor" link -->
+					<section>
+						<div class="container">
+							<div class></div>
+							<div class="jumbotron text-center">
+								<div class="text-center m-b-2"></div><h2>Portfolio</h2>
+								<div class="text-Portfolio"
+								<div class="row">
+								</div>
 							</div>
-							<div class="col-xs-9">
-								<div class="About me"></div><h2>About Me</h2>
-								<p class="lead">Hi! My name is Maria Rosado. I am a Web Developer. I am a Photography aficionado,
-									with a  for creating amazing responsive Websites that look great and that have seamless transitions
-									from the eye catchers to effectiveness.
-								</p>
-								<p>Love design and responsive websites that help business to attract new customers and provide a
-									great experience to all their cutomers.</p>
-								<p>I am based in Albuquerque, New Mexico, and benefit of a multicultural background.
-									I was born in Mexico City, where I had an amazing job that send me to work in very important events
-									like the first Presidential World Summit. Presidential campaigns, North South Summit of Chancellors, etc.</p>
-								<p>Never missed the opportunity to visit museums and historical locations from the Mayas in the south,
-									Aztecs ruins in central Mexico, to the Tarahumaras in the north.
-									Moved to New York where lived for 13 chilling winters and hot summers, and visited almost as many
-									stores there as the works of art that I have enjoyed in Santa Fe and Albuquerque.
-									visit all the stores and breath taking views on the Fall. .</p>
+						</div>
+					</section>
+					<div class="col-sm-3">
+						<div class="text-center-m-b-2">
+							<img src="../public_html/img/icon-ddcb-lg.png" alt="ddcb" class="img-responsive img-circle img-thumbnail">
+							<h5>Aaaa-capstone</h5>
+							<p class="text-center m-b-2">Project</p>
+						</div>
+					</div><!-- /.col-sm-3 -->
+					<div class="col-sm-3">
+						<div class="text-center m-b-2">
+							<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
+								  class="img-responsive img-circle img-thumbnail">
+							<div>
+								<h3>Title 2</h3>
+								<p class="text-center m-b-2">Project</p>
 							</div>
-						</div><!-- /.row -->
-					</div><!-- /.container -->
-				</section>
+						</div>
+					</div><!-- /.col-sm-3 -->
 
-				<!-- begin 4 column section -->
-
-				<a name="moar"></a><!-- this is an "anchor" link -->
-				<section>
-					<div class="container">
-						<div class></div>
-						<div class="jumbotron text-center">
-							<div class="text-center m-b-2"></div><h2>Portfolio</h2>
-						<div class="text-Portfolio"
-						<div class="row">
+					<div class="col-sm-3">
+						<div class="text-center m-b-2">
+							<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
+								  class="img-responsive img-circle img-thumbnail">
+							<div>
+								<h3>Title 3</h3>
+								<p class="text-center m-b-2">Project</p>
+							</div>
 						</div>
+					</div><!-- /.col-sm-3 -->
+					<div class="col-sm-3">
+						<div class="text-center m-b-2">
+							<img src="../public_html/img/coming-soon-1.png" alt="coming-soom"
+								  class="img-responsive img-circle img-thumbnail">
+							<div>
+								<h3>Title 4</h3>
+								<p class="text-center m-b-2">Project</p>
+							</div>
 						</div>
-					</div>
-				</section>
-				<div class="col-sm-3">
-					<div class="text-center-m-b-2">
-						<img src="../public_html/img/icon-ddcb-lg.png" alt="ddcb" class="img-responsive img-circle img-thumbnail">
-						<h5>Aaaa-capstone</h5>
-						<p class="text-center m-b-2">Project</p>
-					</div>
-				</div><!-- /.col-sm-3 -->
-				<div class="col-sm-3">
-					<div class="text-center m-b-2">
-						<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
-							  class="img-responsive img-circle img-thumbnail">
-						<div>
-							<h3>Title 2</h3>
-							<p class="text-center m-b-2">Project</p>
-						</div>
-					</div>
-				</div><!-- /.col-sm-3 -->
-
-				<div class="col-sm-3">
-					<div class="text-center m-b-2">
-						<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
-							  class="img-responsive img-circle img-thumbnail">
-						<div>
-							<h3>Title 3</h3>
-							<p class="text-center m-b-2">Project</p>
-						</div>
-					</div>
-				</div><!-- /.col-sm-3 -->
-				<div class="col-sm-3">
-					<div class="text-center m-b-2">
-						<img src="../public_html/img/coming-soon-1.png" alt="coming-soom"
-							  class="img-responsive img-circle img-thumbnail">
-						<div>
-							<h3>Title 4</h3>
-							<p class="text-center m-b-2">Project</p>
-						</div>
-					</div>
-				</div><!-- /.col-sm-3 -->
+					</div><!-- /.col-sm-3 -->
 				</div>
 		</div><!-- /.container -->
-		</section>
-		</div><!-- /.sfooter-content -->
+		<!-- /.sfooter-content -->
 		<!------------------------- CONTACT FORM ------------------------------------->
 
 		<div id="contact" class="container section">
@@ -242,8 +240,6 @@
 				</div>
 			</div>
 		</div>
-		</main>
-		</div>
 		<!-- begin footer -->
 		<footer>
 			<div class="container">
@@ -262,15 +258,9 @@
 							class="btn btn-social-icon btn-linkedin">
 							<span class="fa fa-linkedin fa-2x"></span>
 						</a>
-						<div class="col-sm-12 text-center">
-							<p>&copy; Copyright Text Here :P</p>
-							<div class="small">
-								<a href="#top"><i class="fa fa-arrow-up"></i> Back to Top</a>
-							</div>
-						</div>
 					</div>
 				</div>
+			</div>
 		</footer>
 	</body>
-	</head>
 </html>
